@@ -1,0 +1,2 @@
+poner un elemento (nombre+beneficio) en el pié de todas las páginas
+aleatorio

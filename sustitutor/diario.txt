@@ -1,0 +1,4 @@
+hacer un filtro que sustituya en la página
+
+hacer varias funciones
+
